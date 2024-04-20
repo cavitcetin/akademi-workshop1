@@ -4,7 +4,7 @@ public class perfectNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter a numberdqwdqwdqwdqwdqwdwq: ");
+        System.out.print("Enter a number: ");
         int number = scanner.nextInt();
 
         int sumOfDivisors = 0;
